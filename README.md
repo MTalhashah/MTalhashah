@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fayez Shahid</h1>
+<h1 align="center">Hi 👋, I'm Talha Shah</h1>
 <h3 align="center">A passionate software engineer and problem solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 👨‍💻 All of my projects are available at [fayezshahid.github.io/portfolio](fayezshahid.github.io/portfolio)
 
 - 💬 Ask me about **any problem you are having**
 
